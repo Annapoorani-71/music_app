@@ -1,5 +1,5 @@
 import React from 'react';
-import { AppBar, Box, Button, IconButton, Toolbar, Typography } from '@mui/material';
+import { AppBar, Box, IconButton, Toolbar, Typography } from '@mui/material';
 import MenuIcon from '@mui/icons-material/Menu';
 import { Link, Route, Routes } from 'react-router-dom';
 import HomeIcon from '@mui/icons-material/Home';

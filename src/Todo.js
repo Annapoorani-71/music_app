@@ -105,7 +105,7 @@ function Todo() {
             onChange={handleChange}
           />
         </div>
-        <button type="submit" aria-required>Add</button>
+        <button type="submit">Add</button>
       </form>
       <ul className="todo-list">
         {todos.map((todo) => (
